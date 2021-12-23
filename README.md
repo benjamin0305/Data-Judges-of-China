@@ -1,2 +1,2 @@
 # Python-Judges-of-China
-This project aims to collect data regarding China's judges who got caught due to corruption
+Research with GitHub link(https://www.youtube.com/watch?v=6OkOmPqumWo)
