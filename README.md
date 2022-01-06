@@ -1,2 +1,20 @@
-# Python-Judges-of-China
-
+- General information
+    - https://www.scrapehero.com/web-scraping-frequently-asked-questions-faqs/
+    - https://researchdata.wisc.edu/news/an-introduction-to-web-scraping-for-research/
+- tools
+    - R: rvest https://stat4701.github.io/edav/2015/04/02/rvest_tutorial/
+    - R or Python https://sdsclub.com/web-scraping-python-vs-r-showdown/
+- find all the URLs with given keywords
+    - https://stackoverflow.com/questions/50227147/get-all-the-urls-from-the-internet-related-to-a-given-keyword-using-python
+        - this answer suggests using python library, which may cause some problem if there are too many website on the list
+    - [Find all the URLs on google containing a certain keyword](https://stackoverflow.com/questions/70247160/find-all-the-urls-on-google-containing-a-certain-keyword)
+        - the comments suggest using Google API, or it will be problematic as Google has robot detective system (a paid API)
+    - https://stackoverflow.com/questions/42209319/how-to-find-link-associated-with-keyword-using-python-requests-and-beautiful-s
+        - sometimes need to identify an URL using tags
+    - which part should we focus on: the URL itself or the content behind the URL?
+- extract useful data from the URLs
+    - how to deal with repetitive web scraping?
+- store the data
+    - SQL
+- data structure
+- text analysis
